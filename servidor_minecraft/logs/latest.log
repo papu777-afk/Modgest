@@ -1322,3 +1322,22 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 14:33:51.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
 [27Jul2024 14:35:37.401] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9429634
 [27Jul2024 14:36:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 600 [Emerald] to VivaCristoLol]
+[27Jul2024 14:42:14.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[27Jul2024 14:42:24.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 14:42:32.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[27Jul2024 14:43:02.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 14:43:48.548] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.99502397
+[27Jul2024 14:43:51.510] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8989035
+[27Jul2024 14:44:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Bow] to VivaCristoLol]
+[27Jul2024 14:44:16.212] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8411733
+[27Jul2024 14:44:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[27Jul2024 14:44:57.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[27Jul2024 14:45:29.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 14:46:20.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 64 [Book] to VivaCristoLol]
+[27Jul2024 14:46:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 14:47:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 64 [Book] to VivaCristoLol]
+[27Jul2024 14:47:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 600 [Emerald] to VivaCristoLol]
+[27Jul2024 14:48:36.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/36955, l='ServerLevel[world]', x=1311.58, y=65.00, z=59.70] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 14:48:50.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 14:50:26.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/46483, l='ServerLevel[world]', x=1311.70, y=65.00, z=61.70] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 14:50:36.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
