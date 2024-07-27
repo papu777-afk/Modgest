@@ -1368,3 +1368,9 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 15:30:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 300 [Emerald] to VivaCristoLol]
 [27Jul2024 15:30:57.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 64 [Book] to VivaCristoLol]
 [27Jul2024 15:31:29.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/53515, l='ServerLevel[world]', x=1308.48, y=65.00, z=71.52] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 15:31:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:34:19.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/52388, l='ServerLevel[world]', x=1311.70, y=65.00, z=69.70] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 15:34:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:37:01.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:41:25.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/54665, l='ServerLevel[world]', x=1307.51, y=65.00, z=65.49] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 15:41:28.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
