@@ -1349,3 +1349,9 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 14:58:27.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
 [27Jul2024 14:59:02.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 13 [Book] to VivaCristoLol]
 [27Jul2024 14:59:18.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:07:35.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[27Jul2024 15:07:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:08:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[27Jul2024 15:09:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Book] to VivaCristoLol]
+[27Jul2024 15:09:41.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/48225, l='ServerLevel[world]', x=1307.51, y=65.00, z=63.51] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 15:09:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
