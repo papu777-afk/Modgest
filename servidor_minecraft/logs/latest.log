@@ -1287,3 +1287,10 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 13:49:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Trident] to VivaCristoLol]
 [27Jul2024 13:49:25.223] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.93224543
 [27Jul2024 13:49:37.423] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.92666894
+[27Jul2024 13:50:29.104] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.84175205
+[27Jul2024 13:50:40.221] [Server thread/WARN] [ToolLeveling+/]: TableUpgradeProcess: can not start upgrade process
+[27Jul2024 13:51:23.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 600 [Emerald] to VivaCristoLol]
+[27Jul2024 13:53:08.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Crossbow] to VivaCristoLol]
+[27Jul2024 13:57:44.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 64 [Book] to VivaCristoLol]
+[27Jul2024 13:58:45.725] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.85035497
+[27Jul2024 13:59:31.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 300 [Stick] to VivaCristoLol]
