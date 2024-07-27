@@ -1355,3 +1355,16 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 15:09:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Book] to VivaCristoLol]
 [27Jul2024 15:09:41.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/48225, l='ServerLevel[world]', x=1307.51, y=65.00, z=63.51] died, message: 'Librarian was slain by VivaCristoLol'
 [27Jul2024 15:09:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:12:12.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:13:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Book] to VivaCristoLol]
+[27Jul2024 15:15:23.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[27Jul2024 15:15:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[27Jul2024 15:15:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:20:41.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 300 [Emerald] to VivaCristoLol]
+[27Jul2024 15:21:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:27:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:29:03.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/48680, l='ServerLevel[world]', x=1307.55, y=65.00, z=65.44] died, message: 'Librarian was slain by VivaCristoLol'
+[27Jul2024 15:29:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 15:30:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 300 [Emerald] to VivaCristoLol]
+[27Jul2024 15:30:57.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 64 [Book] to VivaCristoLol]
+[27Jul2024 15:31:29.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/53515, l='ServerLevel[world]', x=1308.48, y=65.00, z=71.52] died, message: 'Librarian was slain by VivaCristoLol'
