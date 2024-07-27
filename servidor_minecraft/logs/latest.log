@@ -1310,3 +1310,9 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 14:11:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has made the advancement [Take Aim]
 [27Jul2024 14:12:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 300 [Stick] to VivaCristoLol]
 [27Jul2024 14:13:39.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 600 [Emerald] to VivaCristoLol]
+[27Jul2024 14:23:41.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/45017, l='ServerLevel[world]', x=1321.30, y=52.05, z=13.30] died, message: 'Librarian drowned'
+[27Jul2024 14:24:28.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
+[27Jul2024 14:26:40.698] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9032958
+[27Jul2024 14:28:03.486] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.7702374
+[27Jul2024 14:28:06.622] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.84142554
+[27Jul2024 14:30:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Summoned new Villager]
