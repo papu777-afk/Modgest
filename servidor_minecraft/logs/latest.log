@@ -1275,3 +1275,7 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 12:46:19.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [27Jul2024 12:46:19.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [27Jul2024 12:46:19.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[27Jul2024 13:14:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[27Jul2024 13:15:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[27Jul2024 13:15:36.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 600 [Emerald] to VivaCristoLol]
+[27Jul2024 13:17:25.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/32513, l='ServerLevel[world]', x=1307.36, y=65.00, z=55.36] died, message: 'Librarian was slain by VivaCristoLol'
