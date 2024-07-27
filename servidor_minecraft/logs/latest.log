@@ -1307,3 +1307,6 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 14:08:12.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
 [27Jul2024 14:09:01.208] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.90012974
 [27Jul2024 14:10:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[27Jul2024 14:11:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has made the advancement [Take Aim]
+[27Jul2024 14:12:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 300 [Stick] to VivaCristoLol]
+[27Jul2024 14:13:39.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 600 [Emerald] to VivaCristoLol]
