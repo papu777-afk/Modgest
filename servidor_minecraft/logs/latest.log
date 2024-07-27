@@ -1975,3 +1975,7 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 18:25:53.809] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element bosses_of_mass_destruction:void_blossom took 2 ms
 [27Jul2024 18:27:41.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1340, y=69, z=37} BlockPos{x=1340, y=68, z=38}
 [27Jul2024 18:32:47.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 900 [Emerald] to VivaCristoLol]
+[27Jul2024 18:34:33.671] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.84691185
+[27Jul2024 18:35:51.357] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8012543
+[27Jul2024 18:35:57.799] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8689429
+[27Jul2024 18:40:11.964] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8359798
