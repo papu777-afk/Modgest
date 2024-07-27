@@ -1143,3 +1143,4 @@ BCLib - The End  BiomeSource (d007022)
 [27Jul2024 11:40:20.018] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [27Jul2024 11:40:20.018] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [27Jul2024 11:40:20.018] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[27Jul2024 12:09:43.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol moved too quickly! -9.886214230483802,-1.7967356006687112,1.0876886074733818
