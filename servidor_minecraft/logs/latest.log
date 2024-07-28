@@ -2486,3 +2486,69 @@ BCLib - The End  BiomeSource (2d05d36c)
 [28Jul2024 22:50:25.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
 [28Jul2024 22:51:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> aca hay polvora
 [28Jul2024 22:51:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> afk
+[28Jul2024 22:52:31.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> una maid :D
+[28Jul2024 22:52:41.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> esotilim
+[28Jul2024 22:53:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has completed the challenge [No More Phantoms]
+[28Jul2024 22:53:58.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has completed the challenge [Ultimate Piglin distraction suit]
+[28Jul2024 22:54:16.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> ahora los piglins no me hacen nadfa
+[28Jul2024 22:56:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has completed the challenge [Endermen?]
+[28Jul2024 22:56:37.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> :D
+[28Jul2024 22:56:42.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> 3ra maid
+[28Jul2024 22:57:23.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[28Jul2024 22:57:35.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[28Jul2024 22:58:37.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> duelme
+[28Jul2024 22:59:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has completed the challenge [Cover Me in Netherite-Diamond]
+[28Jul2024 22:59:16.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> vicioso
+[28Jul2024 22:59:25.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> aña
+[28Jul2024 23:00:09.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Timed out
+[28Jul2024 23:00:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
+[28Jul2024 23:00:54.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VivaCristoLol[/127.17.37.64:37039] logged in with entity id 104748 at (1305.8576218915682, 68.0, 30.59395830336022)
+[28Jul2024 23:00:54.393] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 23:00:54.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol joined the game
+[28Jul2024 23:00:54.449] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'VivaCristoLol'
+[28Jul2024 23:00:54.450] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'VivaCristoLol'
+[28Jul2024 23:00:55.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 23:00:55.507] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 23:00:55.508] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 23:00:55.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 23:01:24.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Timed out
+[28Jul2024 23:01:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
+[28Jul2024 23:02:02.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VivaCristoLol[/127.17.37.64:35249] logged in with entity id 105021 at (1305.8576218915682, 68.0, 30.59395830336022)
+[28Jul2024 23:02:02.642] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 23:02:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol joined the game
+[28Jul2024 23:02:02.688] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'VivaCristoLol'
+[28Jul2024 23:02:02.688] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'VivaCristoLol'
+[28Jul2024 23:02:03.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 23:02:03.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 23:02:03.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 23:02:03.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 23:02:32.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Timed out
+[28Jul2024 23:02:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
