@@ -1393,3 +1393,58 @@ BCLib - The End  BiomeSource (2d05d36c)
 [28Jul2024 18:31:26.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> wea necesitaré aplanar durisimo
 [28Jul2024 18:31:30.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> para hacer bien la casa
 [28Jul2024 18:32:27.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> usa la flat tnt
+[28Jul2024 18:38:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> revivi
+[28Jul2024 18:38:41.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[28Jul2024 18:38:43.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> flat tnt?
+[28Jul2024 18:38:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> eso que hace
+[28Jul2024 18:38:55.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> te lo aplana xd
+[28Jul2024 18:39:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ai
+[28Jul2024 18:39:05.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> el terreno verdad?
+[28Jul2024 18:39:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> por cierto
+[28Jul2024 18:39:11.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> si
+[28Jul2024 18:39:13.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> como chucha me movi
+[28Jul2024 18:39:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> o me cargaste xd
+[28Jul2024 18:39:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> nao
+[28Jul2024 18:39:30.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[28Jul2024 18:39:54.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> duelme
+[28Jul2024 18:39:59.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set the time to 1000]
+[28Jul2024 18:40:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> piedra y obsidiana
+[28Jul2024 18:40:32.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> bastante facil craftear la flat tnt
+[28Jul2024 18:40:38.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pero
+[28Jul2024 18:40:41.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> cuanto rango tiene?
+[28Jul2024 18:40:47.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Stone Age]
+[28Jul2024 18:40:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> como una tnt normal
+[28Jul2024 18:40:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> creo
+[28Jul2024 18:40:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[28Jul2024 18:40:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> no la probe
+[28Jul2024 18:40:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> deja la pruebo en singleplayer xd
+[28Jul2024 18:41:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> hay vengo
+[28Jul2024 18:41:01.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamder lost connection: Disconnected
+[28Jul2024 18:41:01.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder left the game
+[28Jul2024 18:41:16.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1280, y=-9, z=19} BlockPos{x=1280, y=-10, z=18}
+[28Jul2024 18:45:08.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1260, y=-49, z=23} BlockPos{x=1260, y=-50, z=23}
+[28Jul2024 18:45:09.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1260, y=-50, z=23} BlockPos{x=1260, y=-49, z=23}
+[28Jul2024 18:46:22.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamder[/127.5.207.1:60805] logged in with entity id 12593 at (1311.1906246468268, 68.0, 26.91322772791518)
+[28Jul2024 18:46:22.645] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 18:46:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder joined the game
+[28Jul2024 18:46:22.686] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kamder'
+[28Jul2024 18:46:22.686] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kamder'
+[28Jul2024 18:46:22.892] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 18:46:22.892] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 18:46:22.892] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 18:46:22.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 18:46:22.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 18:46:22.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 18:46:22.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 18:46:22.893] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 18:46:22.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 18:46:22.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 18:46:22.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 18:46:22.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 18:46:22.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 18:46:22.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 18:46:22.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 18:46:22.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 18:46:22.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 18:46:22.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 18:46:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Teleported VivaCristoLol to Kamder]
