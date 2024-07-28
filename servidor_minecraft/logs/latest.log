@@ -1594,3 +1594,84 @@ BCLib - The End  BiomeSource (2d05d36c)
 [28Jul2024 19:02:01.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
 [28Jul2024 19:02:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> e
 [28Jul2024 19:03:16.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> lol
+[28Jul2024 19:07:06.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> ya no lo vulvo aser
+[28Jul2024 19:07:12.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> casi nos quedamos sin server
+[28Jul2024 19:07:13.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> XD
+[28Jul2024 19:07:18.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[28Jul2024 19:07:41.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamder lost connection: Timed out
+[28Jul2024 19:07:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder left the game
+[28Jul2024 19:07:46.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Timed out
+[28Jul2024 19:07:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
+[28Jul2024 19:08:18.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VivaCristoLol[/127.17.37.64:36165] logged in with entity id 17793 at (1311.802815256713, 68.0, 28.483044650474703)
+[28Jul2024 19:08:18.642] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 19:08:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol joined the game
+[28Jul2024 19:08:18.665] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'VivaCristoLol'
+[28Jul2024 19:08:18.665] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'VivaCristoLol'
+[28Jul2024 19:08:19.615] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 19:08:19.615] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 19:08:19.616] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 19:08:19.617] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 19:08:19.617] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 19:08:19.617] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 19:08:19.617] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 19:08:19.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 19:08:19.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 19:08:19.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 19:08:19.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 19:08:19.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 19:08:19.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 19:08:19.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 19:08:19.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 19:08:19.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 19:08:19.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 19:08:19.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 19:08:33.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamder[/127.5.207.1:46365] logged in with entity id 18072 at (1297.699999988079, 70.5625, 38.35372552035784)
+[28Jul2024 19:08:33.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 19:08:33.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder joined the game
+[28Jul2024 19:08:33.692] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kamder'
+[28Jul2024 19:08:33.693] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kamder'
+[28Jul2024 19:08:33.879] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 19:08:33.880] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 19:08:33.880] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 19:08:33.881] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 19:08:33.881] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 19:08:33.881] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 19:08:33.882] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 19:08:33.882] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 19:08:33.882] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 19:08:33.882] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 19:08:33.883] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 19:08:33.883] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 19:08:33.883] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 19:08:33.884] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 19:08:33.884] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 19:08:33.886] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 19:08:33.886] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 19:08:33.886] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 19:08:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> weno ya terminé de comer
+[28Jul2024 19:09:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> q
+[28Jul2024 19:09:56.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> nada
+[28Jul2024 19:10:00.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[28Jul2024 19:10:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> a lol
+[28Jul2024 19:10:18.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Diamonds!]
+[28Jul2024 19:10:34.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> che desmadroso
+[28Jul2024 19:10:39.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> yo
+[28Jul2024 19:10:40.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> con razon este lugar está tan desnivelado
+[28Jul2024 19:10:49.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> es por el driling
+[28Jul2024 19:10:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> la misma wea
+[28Jul2024 19:10:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> desmadroso
+[28Jul2024 19:11:24.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.2643318054736028
+[28Jul2024 19:11:24.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.3605476623031336
+[28Jul2024 19:11:24.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.45722442590090395
+[28Jul2024 19:11:25.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.26874284502537193
+[28Jul2024 19:11:26.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.27338598686287696
+[28Jul2024 19:11:26.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.37220548502250494
+[28Jul2024 19:11:27.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drill (vehicle of VivaCristoLol) moved wrongly! 0.47127730585748395
+[28Jul2024 19:13:00.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1321, y=57, z=3} BlockPos{x=1321, y=59, z=2}
+[28Jul2024 19:13:02.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1322, y=61, z=6} BlockPos{x=1323, y=60, z=6}
+[28Jul2024 19:13:02.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1322, y=61, z=6} BlockPos{x=1323, y=60, z=6}
+[28Jul2024 19:13:02.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1322, y=61, z=6} BlockPos{x=1323, y=60, z=6}
+[28Jul2024 19:13:02.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1322, y=61, z=6} BlockPos{x=1323, y=60, z=6}
+[28Jul2024 19:13:02.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1322, y=61, z=6} BlockPos{x=1323, y=60, z=6}
+[28Jul2024 19:13:03.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1322, y=61, z=6} BlockPos{x=1323, y=60, z=6}
+[28Jul2024 19:13:41.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1319, y=57, z=-1} BlockPos{x=1318, y=55, z=-2}
