@@ -2424,3 +2424,65 @@ BCLib - The End  BiomeSource (2d05d36c)
 [28Jul2024 22:41:17.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> burning
 [28Jul2024 22:41:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> xd
 [28Jul2024 22:41:28.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ta bien
+[28Jul2024 22:42:06.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> voy hacer su martillo aber
+[28Jul2024 22:43:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> reconcentrado
+[28Jul2024 22:43:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> XD
+[28Jul2024 22:43:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[28Jul2024 22:44:47.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> chucha me quedé sin tierra
+[28Jul2024 22:46:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> onta el coso ese
+[28Jul2024 22:46:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> taladro
+[28Jul2024 22:46:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[28Jul2024 22:46:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> por ahi
+[28Jul2024 22:46:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> busca por el ,apa
+[28Jul2024 22:46:50.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> bruv
+[28Jul2024 22:46:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> es como un punto morao
+[28Jul2024 22:47:07.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a ya lo vi
+[28Jul2024 22:47:11.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Teleported VivaCristoLol to Kamder]
+[28Jul2024 22:47:27.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Timed out
+[28Jul2024 22:47:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
+[28Jul2024 22:47:53.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VivaCristoLol[/127.17.37.64:37893] logged in with entity id 100454 at (1367.1861697536053, 64.00133597911214, -9.54192449670214)
+[28Jul2024 22:47:53.201] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 22:47:53.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol joined the game
+[28Jul2024 22:47:53.253] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'VivaCristoLol'
+[28Jul2024 22:47:53.253] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'VivaCristoLol'
+[28Jul2024 22:47:53.592] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 22:47:53.593] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 22:47:53.593] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 22:47:53.593] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 22:47:53.594] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 22:47:53.595] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 22:47:53.595] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 22:47:53.595] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 22:47:53.595] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 22:47:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> che
+[28Jul2024 22:47:59.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ta en medio del agua
+[28Jul2024 22:48:05.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ._.xd
+[28Jul2024 22:48:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> pegale
+[28Jul2024 22:48:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> y se sale
+[28Jul2024 22:48:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a
+[28Jul2024 22:48:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> es como el barco
+[28Jul2024 22:48:43.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> con q le pego ._.
+[28Jul2024 22:48:45.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Digging Deep]
+[28Jul2024 22:48:46.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> a ya
+[28Jul2024 22:48:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> mano
+[28Jul2024 22:49:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> como se prende esta madre
+[28Jul2024 22:49:19.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> apretas la m
+[28Jul2024 22:49:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> y le mpones combustible
+[28Jul2024 22:49:29.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> s como un horno
+[28Jul2024 22:49:31.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> xd
+[28Jul2024 22:49:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> le pongo carbon dice
+[28Jul2024 22:49:40.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> sip
+[28Jul2024 22:49:47.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[28Jul2024 22:49:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ta bien
+[28Jul2024 22:50:25.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[28Jul2024 22:51:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> aca hay polvora
+[28Jul2024 22:51:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> afk
