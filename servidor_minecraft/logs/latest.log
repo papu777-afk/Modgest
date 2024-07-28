@@ -1899,3 +1899,66 @@ BCLib - The End  BiomeSource (2d05d36c)
 [28Jul2024 20:05:14.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> hago magia con esa madre
 [28Jul2024 20:05:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> xdxd
 [28Jul2024 20:05:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[28Jul2024 20:10:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> zzz
+[28Jul2024 20:10:33.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> z
+[28Jul2024 20:10:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> z
+[28Jul2024 20:10:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> z
+[28Jul2024 20:10:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> z
+[28Jul2024 20:10:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> z
+[28Jul2024 20:10:43.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Teleported VivaCristoLol to Kamder]
+[28Jul2024 20:12:54.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> a
+[28Jul2024 20:15:48.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> ke riko
+[28Jul2024 20:15:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ?
+[28Jul2024 20:15:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> sakeadores
+[28Jul2024 20:16:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xd
+[28Jul2024 20:16:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has made the advancement [Voluntary Exile]
+[28Jul2024 20:19:27.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamder lost connection: Disconnected
+[28Jul2024 20:19:27.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder left the game
+[28Jul2024 20:20:02.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kamder[/127.5.207.1:50709] logged in with entity id 48472 at (1375.853164794302, 63.0, 54.49248082078634)
+[28Jul2024 20:20:02.300] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jul2024 20:20:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder joined the game
+[28Jul2024 20:20:02.338] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kamder'
+[28Jul2024 20:20:02.339] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kamder'
+[28Jul2024 20:20:02.503] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jul2024 20:20:02.503] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jul2024 20:20:02.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jul2024 20:20:02.505] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jul2024 20:25:41.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol is bleeding. VivaCristoLol was slain by Vex
+[28Jul2024 20:25:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has made the advancement [Voluntary Exile]
+[28Jul2024 20:25:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> ay
+[28Jul2024 20:25:49.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> aiuda virgensita
+[28Jul2024 20:26:04.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder has reached the goal [Postmortal]
+[28Jul2024 20:26:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> xddd
+[28Jul2024 20:26:34.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Teleported VivaCristoLol to Kamder]
+[28Jul2024 20:26:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> curaa
+[28Jul2024 20:26:45.895] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for VivaCristoLol with unique ID b396ac8a-f1a1-46b5-b741-424ac77d869d
+[28Jul2024 20:26:45.899] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1296 Y: 73 Z: 42
+[28Jul2024 20:26:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol was slain by Vex
+[28Jul2024 20:26:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> m rd
+[28Jul2024 20:26:50.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> pto vex
+[28Jul2024 20:27:02.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Survival Mode]
+[28Jul2024 20:27:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol is bleeding. VivaCristoLol was slain by Mutant Zombie
+[28Jul2024 20:27:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> los ves suon un fastidio
+[28Jul2024 20:27:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> XDDDDDDDDDDD
+[28Jul2024 20:27:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> me mato un zombie mutate
+[28Jul2024 20:27:58.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> xDDDD
+[28Jul2024 20:28:14.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17848, l='ServerLevel[world]', x=1296.56, y=70.75, z=35.56] died, message: 'Farmer was slain by Vindicator'
+[28Jul2024 20:28:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder is bleeding. Kamder was slain by Vex
+[28Jul2024 20:28:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> AAAA
+[28Jul2024 20:28:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol is bleeding. VivaCristoLol was slain by Vex
+[28Jul2024 20:28:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> xdd
+[28Jul2024 20:28:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
