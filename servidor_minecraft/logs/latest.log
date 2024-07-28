@@ -1287,3 +1287,7 @@ BCLib - The End  BiomeSource (6214796c)
 [28Jul2024 12:45:42.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [28Jul2024 12:45:42.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Modgest/servidor_minecraft/bclib-sync (allowDelete=true)
 [28Jul2024 12:45:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaCristoLol> poof
+[28Jul2024 12:49:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Set own game mode to Creative Mode]
+[28Jul2024 12:50:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol has made the advancement [You Are A Pirate]
+[28Jul2024 12:51:36.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Disconnected
+[28Jul2024 12:51:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
