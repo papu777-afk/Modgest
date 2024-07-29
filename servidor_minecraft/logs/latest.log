@@ -10,3 +10,15 @@
 [29Jul2024 00:11:29.939] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.79747427
 [29Jul2024 00:12:21.836] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.93353397
 [29Jul2024 00:14:20.560] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.80506396
+[29Jul2024 00:14:50.315] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.9949487
+[29Jul2024 00:16:58.945] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.757052
+[29Jul2024 00:17:03.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> ush lo dejaré asi
+[29Jul2024 00:17:04.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kamder> chaus
+[29Jul2024 00:17:06.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kamder lost connection: Disconnected
+[29Jul2024 00:17:06.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kamder left the game
+[29Jul2024 00:17:15.785] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8983586
+[29Jul2024 00:19:12.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Gave 1 [Pico Ultra Mamadisimo] to VivaCristoLol]
+[29Jul2024 00:19:31.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Applied enchantment Mending to VivaCristoLol's item]
+[29Jul2024 00:19:38.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaCristoLol: Applied enchantment Unbreaking III to VivaCristoLol's item]
+[29Jul2024 00:19:48.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaCristoLol lost connection: Disconnected
+[29Jul2024 00:19:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaCristoLol left the game
